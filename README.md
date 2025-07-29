@@ -1,4 +1,6 @@
-🎁Jogo do amigo secreto.
+🎁Desafio do amigo secreto.
+
+Um desafio para revezar os conceitos básicos de lógica de programação.
 
 -----
 
